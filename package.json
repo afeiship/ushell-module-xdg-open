@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-xdg-open",
+  "version": "1.0.0",
+  "description": "Open like macos in ubuntu.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-xdg-open.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-xdg-open"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-xdg-open/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-xdg-open"
+}
